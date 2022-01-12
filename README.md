@@ -9,9 +9,9 @@ Data Analyst Portfolio
 
 ![alt text](https://github.com/mkimball14/customer_churn/blob/main/images/SeniorCitizenTree.png "Senior Citizenship Decision Tree")
 
-# [Project 2: MongoDB/Knime: Project Overview]()
-* Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
-* Scraped over 1000 job descriptions from glassdoor using python and selenium
-* Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
-* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
-* Built a client facing API using flask 
+# [Project 2: Yelp Restaurant Analytics](https://github.com/mkimball14/yelp_analytics/blob/main/README.md)
+* Gathered insights of top restaurants in Boston by writing 10 queries on Yelp Dataset from Kaggle
+* Converted JSON data to Pandas Dataframe to explore data with MySQL
+* Used Knime software to connect to MongoDB and created a workflow by joining JSON tables and filtering data
+
+![alt text](https://github.com/mkimball14/yelp_analytics/blob/main/images/Knime%20Workflow.png "Knime Workflow")
