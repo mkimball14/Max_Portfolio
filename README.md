@@ -16,4 +16,5 @@ Data Analytics Portfolio
 
 # [Project 3: NFT Blockchain Analytics](https://github.com/mkimball14/blockchain_analytics/blob/main/README.md)
 Extracted live CyrptoPunks NFT data on the Ethereum Blockchain using SQL in Google Colab to gather insights from NFT transactions
+
 ![alt text](https://github.com/mkimball14/blockchain_analytics/blob/main/images/query3.png "Query 3")
