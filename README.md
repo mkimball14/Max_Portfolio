@@ -17,4 +17,10 @@ Data Analyst Portfolio
 ![alt text](https://github.com/mkimball14/yelp_analytics/blob/main/images/Knime%20Workflow.png "Knime Workflow")
 
 # [Project 3: NFT Blockchain Analytics](https://github.com/mkimball14/yelp_analytics/blob/main/README.md)
-Extracted NFT data on the Ethereum Blockchain using MySQL to gather insights from NFT transactions
+Extracted live CyrptoPunks NFT data on the Ethereum Blockchain using SQL to gather insights from NFT transactions
+
+# Enter Query 3 code here 
+%%sql
+SELECT name, address, links
+FROM token
+WHERE address = '0xb47e3cd837dDF8e4c57F05d70Ab865de6e193BBB'
