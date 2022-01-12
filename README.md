@@ -15,3 +15,6 @@ Data Analyst Portfolio
 * Used Knime software to connect to MongoDB and created a workflow by joining JSON tables and filtering data
 
 ![alt text](https://github.com/mkimball14/yelp_analytics/blob/main/images/Knime%20Workflow.png "Knime Workflow")
+
+# [Project 3: NFT Blockchain Analytics](https://github.com/mkimball14/yelp_analytics/blob/main/README.md)
+Extracted NFT data on the Ethereum Blockchain using MySQL to gather insights from NFT transactions
