@@ -1,5 +1,5 @@
 # Max_Portfolio
-Data Analyst Portfolio
+Data Analytics Portfolio
 
 # [Project 1: Telecom Customer Churn Analysis: Project Overview](https://github.com/mkimball14/customer_churn/blob/main/README.md)
 * Used logistic regression and decision tree classification models to predict what factors lead to customer churn in a telecommunications company
