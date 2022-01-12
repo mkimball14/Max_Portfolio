@@ -1,5 +1,5 @@
 # Max_Portfolio
-Business Analyst Portfolio
+Data Analyst Portfolio
 
 # [Project 1: Telecom Customer Churn Analysis: Project Overview](https://github.com/mkimball14/customer_churn/blob/main/README.md)
 * Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
